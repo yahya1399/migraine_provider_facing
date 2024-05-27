@@ -1,0 +1,13 @@
+The presence of four out of five criteria in the POUND mnemonic gives a likelihood ratio of 24 for possible migraine.(13) POUND is a user-friendly screening tools that encompass the major criteria in the ICHD-3 diagnostic criteria for migraine.
+
+POUND Screening Tool (1 point for each symptom).
+P Pulsating
+O Duration of 4–72 hours
+U Unilateral
+N Nausea
+D Disabling
+
+Likelihood ratio for definite or possible migraine:
+• 4 points: 24
+• 3 points: 3.5
+• < 2 points: 0.41 

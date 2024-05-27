@@ -1,0 +1,11 @@
+A careful history and focused neurologic examination is usually adequate to exclude secondary headache. It is important to elicit red flags that are mostly secondary causes of headache. These would necessitate referral to either the emergency department or a specialist, depending on the sense of urgency and index of suspicion.
+
+RED FLAG SYMPTOMS - SYMPTOMS THAT INDICATE SECONDARY CAUSES OF HEADACHE, AND WHICH MAY REQUIRE URGENT ATTENTION
+- Systemic symptoms: fever, chills, myalgia, weight loss (these symptoms indicate a need to exclude Metastasis, infection)
+- Neurological symptoms or deficits (these symptoms indicate a need to exclude  Stroke, mass lesion, encephalitis)
+- Older age at onset (> 50 years) (this indicates a need to exclude Temporal arteritis, glaucoma, mass lesion)
+- Onset, thunderclap headache onset (this symptom indicates a need to exclude Bleed)
+- Papilloedema (this symptom indicates a need to exclude Raised intracranial pressure)
+- Positional (this symptom indicates a need to exclude Intracranial hypotension)
+- Precipitated by Valsalva manoeuvre or exertion (this symptom indicates a need to exclude Raised intracranial pressure)
+- Progressive headache or substantial pattern change (this symptom indicates a need to exclude Any secondary cause)

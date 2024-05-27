@@ -1,0 +1,23 @@
+The International Headache Society (IHS) defines migraine headaches using the International Classification of Headache Disorders (ICHD). The ICHD-3 edition of the classification system includes diagnostic criteria for migraine with and without aura:
+
+1.1 MIGRAINE WITHOUT AURA
+Description:
+Recurrent headache disorder manifesting in attacks lasting 4-72 hours. Typical characteristics of the headache are unilateral location, pulsating quality, moderate or severe intensity, aggravation by routine physical activity and association with nausea and/or photophobia and phonophobia.
+
+Diagnostic criteria:
+A. At least five attacks1 fulfilling criteria B-D
+B. Headache attacks lasting 4-72 hr (untreated or unsuccessfully treated)
+C. Headache has at least two of the following four characteristics:
+1. unilateral location
+2. pulsating quality
+3. moderate or severe pain intensity
+4. aggravation by or causing avoidance of routine physical activity (eg, walking or climbing stairs)
+D. During headache at least one of the following:
+1. nausea and/or vomiting
+2. photophobia and phonophobia
+E. Not better accounted for by another ICHD-3 diagnosis.
+
+Comments:
+Migraine headache in children and adolescents (aged under 18 years) is more often bilateral than is the case in adults; unilateral pain usually emerges in late adolescence or early adult life. Migraine headache is usually frontotemporal. Occipital headache in children is rare and calls for diagnostic caution. A subset of otherwise typical patients have facial location of pain, which is called “facial migraine” in the literature; there is no evidence that these patients form a separate subgroup of migraine patients. In young children, photophobia and phonophobia may be inferred from their behaviour. Migraine attacks can be associated with cranial autonomic symptoms and symptoms of cutaneous allodynia.
+
+
