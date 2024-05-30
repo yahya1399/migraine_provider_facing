@@ -1,0 +1,16 @@
+{
+  "title": "POUND Screening Tool",
+  "description": "The presence of four out of five criteria in the POUND mnemonic gives a likelihood ratio of 24 for possible migraine.",
+  "criteria": [
+    "Pulsating",
+    "Duration of 4–72 hours",
+    "Unilateral",
+    "Nausea",
+    "Disabling"
+  ],
+  "likelihood_ratio": [
+    { "points": 4, "ratio": 24 },
+    { "points": 3, "ratio": 3.5 },
+    { "points": "<2", "ratio": 0.41 }
+  ]
+}

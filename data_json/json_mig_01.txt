@@ -1,0 +1,26 @@
+{
+  "title": "Acute Migraine Headache: Treatment Strategies",
+  "description": "Migraine is a primary headache disorder characterized by recurrent attacks.",
+  "statistics": {
+    "affected_population": "44.5 million U.S. adults",
+    "annual_cost": "$17 billion in direct costs"
+  },
+  "treatment_recommendations": [
+    {
+      "type": "first-line",
+      "treatments": ["acetaminophen", "nonsteroidal anti-inflammatory drugs (NSAIDs)"]
+    },
+    {
+      "type": "second-line",
+      "treatments": ["triptans"]
+    },
+    {
+      "type": "third-line",
+      "treatments": ["dihydroergotamine", "antiemetics"]
+    }
+  ],
+  "principles": [
+    "Taking medication early in an attack",
+    "Using a stratified treatment approach"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Diagnosis and Patient Assessment",
+  "description": "Migraine has well-established diagnostic criteria.",
+  "diagnostic_criteria": "POUND mnemonic",
+  "assessment_aims": [
+    "Confirm diagnostic criteria",
+    "Evaluate for alternative explanations",
+    "Identify comorbidities",
+    "Document baseline pattern and severity of episodes"
+  ],
+  "indications_for_testing": [
+    "Identify causes of secondary headaches",
+    "Identify comorbid conditions"
+  ],
+  "red_flags": "Need for neuroimaging and/or urgent referral"
+}

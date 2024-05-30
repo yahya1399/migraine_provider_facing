@@ -1,0 +1,35 @@
+{
+  "title": "First-Line Therapies",
+  "therapies": [
+    {
+      "category": "Acetaminophen",
+      "evidence": "Strong evidence supports its use as a first-line treatment for mild to moderate migraine attacks. Recommended dose is 1,000 mg."
+    },
+    {
+      "category": "NSAIDs",
+      "medications": [
+        {
+          "name": "Aspirin",
+          "dose": "1,000 mg",
+          "note": "Has the greatest risk of gastric irritation."
+        },
+        {
+          "name": "Ibuprofen",
+          "dose": "400 mg",
+          "note": "Often chosen for its availability and tolerability."
+        },
+        {
+          "name": "Diclofenac",
+          "note": "Available as a powder or tablet and is as effective as ibuprofen."
+        },
+        {
+          "name": "Naproxen",
+          "dose": "500 mg, 825 mg",
+          "note": "Slower onset of action but longer half-life."
+        }
+      ],
+      "combination": "Acetaminophen / Aspirin / Caffeine",
+      "note": "Has strong evidence of effectiveness and can be used as a first-line treatment for migraine."
+    }
+  ]
+}

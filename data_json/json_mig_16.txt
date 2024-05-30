@@ -1,0 +1,17 @@
+{
+  "title": "Special Considerations",
+  "populations": [
+    {
+      "group": "Children and Adolescents",
+      "description": "Evidence for effective treatment of migraine is weaker in children than in adults. Three triptans are approved by the U.S Food and Drug Administration for use in this population: almotriptan, rizatriptan, and sumatriptan in combination with naproxen."
+    },
+    {
+      "group": "Pregnancy and Lactation",
+      "description": "Acetaminophen and metoclopramide are the only treatments for migraine considered safe in pregnancy. Although controversial, triptans can be considered for use in pregnant women with debilitating migraines."
+    },
+    {
+      "group": "Contraindications to Vasoconstrictors",
+      "description": "Triptans and other vasoconstrictors are contraindicated in patients with coronary artery disease and in specific migraine syndromes. Nonopioid combination analgesics, especially acetaminophen/aspirin/caffeine, are most helpful in these conditions."
+    }
+  ]
+}
