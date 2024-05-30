@@ -1,0 +1,14 @@
+{
+  "title": "Red Flag Symptoms for Secondary Headache Causes",
+  "description": "A careful history and focused neurologic examination is usually adequate to exclude secondary headache. It is important to elicit red flags that are mostly secondary causes of headache.",
+  "red_flags": [
+    "Systemic symptoms: fever, chills, myalgia, weight loss (Metastasis, infection)",
+    "Neurological symptoms or deficits (Stroke, mass lesion, encephalitis)",
+    "Older age at onset (> 50 years) (Temporal arteritis, glaucoma, mass lesion)",
+    "Thunderclap headache onset (Bleed)",
+    "Papilloedema (Raised intracranial pressure)",
+    "Positional (Intracranial hypotension)",
+    "Precipitated by Valsalva manoeuvre or exertion (Raised intracranial pressure)",
+    "Progressive headache or substantial pattern change (Any secondary cause)"
+  ]
+}

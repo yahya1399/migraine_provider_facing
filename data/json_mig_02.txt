@@ -1,0 +1,17 @@
+{
+  "title": "Key Clinical Recommendations for Practice",
+  "recommendations": [
+    {
+      "condition": "mild to moderate migraine",
+      "treatment": "nonsteroidal anti-inflammatory drugs"
+    },
+    {
+      "condition": "moderate to severe migraine",
+      "treatment": "triptans"
+    },
+    {
+      "condition": "refractory migraine",
+      "treatment": ["dihydroergotamine", "magnesium sulfate", "valproate", "opioids"]
+    }
+  ]
+}

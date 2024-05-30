@@ -1,0 +1,24 @@
+{
+  "title": "Treatment Strategies",
+  "strategies": [
+    {
+      "name": "Stratified approach",
+      "description": "Based on headache severity: mild headaches are initially treated with NSAIDs, more severe headaches are initially treated with a triptan."
+    },
+    {
+      "name": "Step care across attacks",
+      "description": "Initial medication is chosen based on cost and adverse effect profile. If treatment is unsuccessful, a more potent medication is used for subsequent attacks."
+    },
+    {
+      "name": "Step care within attacks",
+      "description": "Uses a simple analgesic initially, but switches to more potent medications later in the same attack, if necessary."
+    }
+  ],
+  "guidelines": [
+    "Patient must understand the condition and treatment strategy",
+    "Medication should be taken early in the attack",
+    "Appropriate follow-up and treatment adjustment are crucial",
+    "Some patients require more than one medication or formulation",
+    "Counsel patients about the danger of medication overuse and the risk of conversion to chronic daily headache"
+  ]
+}

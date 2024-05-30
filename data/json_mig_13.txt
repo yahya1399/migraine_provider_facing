@@ -1,0 +1,15 @@
+{
+  "title": "First-Line Therapies",
+  "category": "Triptans",
+  "description": "Triptans are an effective first-line treatment for moderate to severe migraine. They share a common mechanism of action but differ in routes of administration, cost, and pharmacokinetics, allowing the choice of specific medication to be individualized to the patient's migraine pattern.",
+  "medications": [
+    "Almotriptan (Axert)",
+    "Eletriptan (Relpax)",
+    "Frovatriptan (Frova)",
+    "Naratriptan (Amerge)",
+    "Rizatriptan (Maxalt)",
+    "Sumatriptan (Imitrex)",
+    "Zolmitriptan (Zomig)"
+  ],
+  "note": "Sumatriptan is the most extensively studied triptan. Combining the triptan with 500 mg of naproxen or choosing a triptan with a longer half-life may reduce recurrence rates."
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Refractory Migraine",
+  "description": "Parenteral dihydroergotamine is commonly used to treat refractory migraine. However, vasoconstrictive agents should be avoided for 24 hours after administration of a triptan.",
+  "preferred_treatments": [
+    "Parenteral NSAIDs",
+    "Antiemetics",
+    "Intravenous magnesium sulfate",
+    "Intravenous valproate",
+    "Parenteral corticosteroids",
+    "Opioids"
+  ]
+}

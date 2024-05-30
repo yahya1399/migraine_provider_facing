@@ -1,0 +1,31 @@
+{
+  "title": "Second-Line Therapies",
+  "therapies": [
+    {
+      "category": "Dihydroergotamine",
+      "note": "Intranasal dihydroergotamine has strong evidence of effectiveness but more adverse effects than triptans."
+    },
+    {
+      "category": "Opioids",
+      "note": "Opioids such as butorphanol, codeine, tramadol, and meperidine have moderate evidence of effectiveness for migraine but have a high abuse potential."
+    },
+    {
+      "category": "Antiemetics",
+      "medications": [
+        "Chlorpromazine",
+        "Droperidol",
+        "Metoclopramide",
+        "Prochlorperazine"
+      ],
+      "note": "Antiemetics are often used for migraine. Metoclopramide and prochlorperazine are the most extensively studied."
+    },
+    {
+      "category": "Other Medications",
+      "medications": [
+        "Ketorolac",
+        "Promethazine"
+      ],
+      "note": "Several parenteral medications are available for office-based care."
+    }
+  ]
+}

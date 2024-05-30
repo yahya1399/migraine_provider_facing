@@ -1,0 +1,55 @@
+{
+  "title": "Medications for Acute Migraine",
+  "first_line_options": [
+    "Acetaminophen",
+    {
+      "category": "NSAIDs",
+      "medications": [
+        "Aspirin",
+        "Diclofenac",
+        "Ibuprofen",
+        "Naproxen"
+      ]
+    },
+    {
+      "category": "Triptans",
+      "medications": [
+        "Almotriptan (Axert)",
+        "Eletriptan (Relpax)",
+        "Frovatriptan (Frova)",
+        "Naratriptan (Amerge)",
+        "Rizatriptan (Maxalt)",
+        "Sumatriptan (Imitrex)",
+        "Zolmitriptan (Zomig)"
+      ]
+    },
+    {
+      "category": "Combined Regimens",
+      "medications": [
+        "Acetaminophen / Aspirin / Caffeine",
+        "Sumatriptan / Naproxen (Treximet)"
+      ]
+    }
+  ],
+  "second_line_options": [
+    {
+      "category": "Antiemetics",
+      "medications": [
+        "Chlorpromazine",
+        "Droperidol",
+        "Metoclopramide (Reglan)",
+        "Prochlorperazine",
+        "Promethazine"
+      ]
+    },
+    "Dihydroergotamine, intranasal (Migranal)",
+    "Parenteral NSAID (ketorolac)"
+  ],
+  "options_for_refractory_migraine": [
+    "Dexamethasone, intravenous",
+    "Dihydroergotamine, parenteral (DHE 45)",
+    "Magnesium sulfate, intravenous",
+    "Opioids",
+    "Valproate, intravenous (Depacon)"
+  ]
+}

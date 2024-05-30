@@ -1,0 +1,22 @@
+{
+  "title": "Chronic Migraine",
+  "description": "Headache occurring on 15 or more days/month for more than 3 months, which, on at least 8 days/month, has the features of migraine headache.",
+  "diagnostic_criteria": [
+    {
+      "criteria": "A",
+      "description": "Headache (migraine-like or tension-type-like) on ≥15 days/month for >3 months, and fulfilling criteria B and C"
+    },
+    {
+      "criteria": "B",
+      "description": "Occurring in a patient who has had at least five attacks fulfilling criteria B-D for Migraine without aura and/or criteria B and C for Migraine with aura"
+    },
+    {
+      "criteria": "C",
+      "description": "On ≥8 days/month for >3 months, fulfilling any of the following: criteria C and D for Migraine without aura, criteria B and C for Migraine with aura, believed by the patient to be migraine at onset and relieved by a triptan or ergot derivative"
+    },
+    {
+      "criteria": "D",
+      "description": "Not better accounted for by another ICHD-3 diagnosis"
+    }
+  ]
+}

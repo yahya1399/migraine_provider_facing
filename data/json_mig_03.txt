@@ -1,0 +1,8 @@
+{
+  "title": "Choosing Wisely Campaign Recommendations",
+  "recommendations": [
+    "Do not use opioids or butalbital for migraine except as a last resort",
+    "Do not prescribe opioid or butalbital-containing medications as first-line treatment for recurrent headache disorders",
+    "Do not recommend prolonged or frequent use of over-the-counter pain medications for headache"
+  ]
+}
